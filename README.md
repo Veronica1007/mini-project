@@ -3,6 +3,7 @@
 <i>A Data Science project for CoderGirl using the Heart Disease UCI dataset: https://www.kaggle.com/ronitf/heart-disease-uci.</i>
 
 <b>Background</b>
+
 In its entirity, the Cleveland database contanins 76 attributes and classifies patients based on the abasence or presence of heart disease. However, for this project, a subset of the following 14 attributes is being used:
 
     Age (age in years)
@@ -21,6 +22,7 @@ In its entirity, the Cleveland database contanins 76 attributes and classifies p
     TARGET (0 = no disease; 1 = heart disease)
 
 <b>Project</b>
+
 This mini-project is divided into three phases:
 1. Exploratory data analysis
 2. Model exploration
